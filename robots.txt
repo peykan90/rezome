@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://azarpeykan-mo.github.io/rezome/sitemap.xml
